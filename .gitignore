@@ -1,3 +1,6 @@
+# Shell scripts
+*.sh
+
 # Nested git repositories
 SwinIR/
 
