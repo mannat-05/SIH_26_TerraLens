@@ -1,3 +1,7 @@
+# SSH Keys (never commit these!)
+key.txt
+key.txt.pub
+
 # Shell scripts
 *.sh
 
