@@ -1,0 +1,54 @@
+# Nested git repositories
+SwinIR/
+
+# Large archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Model weights & checkpoints (typically large)
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.hdf5
+*.bin
+*.safetensors
+
+# Data files
+*.csv
+*.parquet
+*.feather
+*.npy
+*.npz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
